@@ -2361,60 +2361,6 @@ body {
     padding: 0 1rem;
   }
 }
-.cid-rYgipItVyP {
-  padding-top: 90px;
-  padding-bottom: 45px;
-  background-color: #efefef;
-}
-.cid-rYgipItVyP .container-fluid {
-  padding: 0 3rem;
-}
-.cid-rYgipItVyP .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #a38dfd, #fe525b);
-  display: inline-block;
-}
-.cid-rYgipItVyP .card {
-  display: flex;
-  position: relative;
-  justify-content: center;
-}
-.cid-rYgipItVyP .card:hover img {
-  transform: scale3d(1.05, 1.05, 1.05);
-  transition: all .5s;
-}
-.cid-rYgipItVyP .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  border-radius: 10px;
-  z-index: 1;
-}
-.cid-rYgipItVyP .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-rYgipItVyP .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  border-top-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  background-color: #fe525b;
-}
-.cid-rYgipItVyP .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-rYgipItVyP .card .card-wrapper .card-box .mbr-section-btn a {
-  margin-left: 4px;
-}
-@media (max-width: 767px) {
-  .cid-rYgipItVyP .container-fluid {
-    padding: 0 1rem;
-  }
-}
 .cid-r7wwaM6JLC {
   padding-top: 90px;
   padding-bottom: 90px;
